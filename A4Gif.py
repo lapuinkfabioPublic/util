@@ -82,3 +82,4 @@ convert_images_to_gif('C:\\Users\\lapui\\OneDrive\\Documentos\\Prints\\', 'outpu
 
 
 #Quem conversa com I.A são os DEVs
+#Sudo ./darknet detector demo -i 0 cfg/coco.data cfg/yolov4-tiny.cfg yolov4-tiny.weights -dont_show /mnt/c/Users/lapui/OneDrive/Documentos/Prints/output.gif -out_filename data/video/output.mp4
